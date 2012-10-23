@@ -8,3 +8,6 @@
 		float	m_fProfit;			// 每股红利
 	};
 	RCV_EKE_HEADEx	m_head;
+
+	
+2、市盈率=最新价/每股收益  但如果不除以2的话，和飞狐的数据不匹配
