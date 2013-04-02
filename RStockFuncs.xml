@@ -11,4 +11,16 @@ DrawK(OPEN,CLOSE,HIGH,LOW)
 DrawK(OPEN,CLOSE,HIGH,LOW)
 将开盘价，收盘价，最高价，最低价绘制成K线图</desc>
 	</func>
+	<func>
+		<name>DrawK(OPEN,CLOSE,HIGH,LOW)</name>
+		<desc>别名: 绘制K线图
+所属类别: 绘图函数  参数数量: 4
+
+通过输入的参数绘制K线图
+用法:
+DrawK(OPEN,CLOSE,HIGH,LOW)
+例如:
+DrawK(OPEN,CLOSE,HIGH,LOW)
+将开盘价，收盘价，最高价，最低价绘制成K线图</desc>
+	</func>
 </funcs>
